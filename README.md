@@ -1,7 +1,8 @@
-# Sublime-CDN-Snippets
+# Sublime CDN Snippets
 
 ## Demmo
-![Alt text](http://www.addictedtoibiza.com/wp-content/uploads/2012/12/example.png)
+
+![Alt text](https://n2o0ea-bn1305.files.1drv.com/y3mJEhDCPPzPC-y2kgH1h5u1pX57aTfjR0jvda4jBwSB4vMW5eXD_qmUTX_DVrYMIXWPFfmLJrGsVUtGTAJE3QSoNJ0kYI-pH7Worat5OX8S_0ixsGtirTAhiAvJhevXX8QOu1Rka1Hxz1QUs-JeqGaBMraGnDLhc3_TS5FyOzOgHE/6f5b24ed81548374d5d72376d8cf69b7.gif?psid=1)
 
 ## Usage
 
