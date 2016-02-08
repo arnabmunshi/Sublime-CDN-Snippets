@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>$2]]></content>
+	<tabTrigger>cdnwow</tabTrigger>
+    <description>wowjs v1.1.2</description>
+	<scope>text.html</scope>
+</snippet>
