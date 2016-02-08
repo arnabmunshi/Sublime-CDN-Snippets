@@ -1,8 +1,18 @@
 # Sublime CDN Snippets
+##### Last Updat: 09-Feb-2016
 
 ## Demmo
 
 ![Alt text](https://n2o0ea-bn1305.files.1drv.com/y3mJEhDCPPzPC-y2kgH1h5u1pX57aTfjR0jvda4jBwSB4vMW5eXD_qmUTX_DVrYMIXWPFfmLJrGsVUtGTAJE3QSoNJ0kYI-pH7Worat5OX8S_0ixsGtirTAhiAvJhevXX8QOu1Rka1Hxz1QUs-JeqGaBMraGnDLhc3_TS5FyOzOgHE/6f5b24ed81548374d5d72376d8cf69b7.gif?psid=1)
+
+## Steps
+1. Download ZIP `Sublime-CDN-Snippets-master.zip`
+2. Extarct the ZIP file
+3. Copy the `Sublime-CDN-Snippets-master` Folder
+4. Open `Sublime Text Editor`
+5. Click `Preferences->Browser Packages...` to open the path `C:\Users\[username]\AppData\Roaming\Sublime Text [version]\Packages`
+6. Paste the `Sublime-CDN-Snippets-master` Folder on that path
+7. Now open a `HTML` on `Sublime Text Editor` file and type `cdn` 
 
 ## Usage
 
