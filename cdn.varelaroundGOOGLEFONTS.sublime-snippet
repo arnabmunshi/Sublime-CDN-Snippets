@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css' />]]></content>
+	<tabTrigger>cdnfont</tabTrigger>
+    <description>Google Fonts: Varela Round</description>
+	<scope>text.html</scope>
+</snippet>
