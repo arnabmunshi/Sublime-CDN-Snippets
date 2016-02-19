@@ -29,18 +29,3 @@ JS / CSS / FONT | Type and `ctrl+space`
 [StellarJS v0.6.2 (Parallax Animation)](http://markdalgleish.com/projects/stellar.js/) | `cdnstellar`
 [Google Fonts: Varela Round](https://www.google.com/fonts) | `cdnfont`
 [wowJS v1.1.2](http://mynameismatthieu.com/WOW/) | `cdnwow`
-
-
-```php
-{!! Form::open(['url' => 'userLogin']) !!}
-      <div class="form-field-div">{!! Form::email('emailid', null, ['class' => 'email', 'placeholder' => 'Email ID']) !!}</div>
-      @if($errors->has('emailid'))
-        <div class="error">{{ $errors->first('emailid') }}</div>
-      @endif
-      <div class="form-field-div">{!! Form::password('password', ['class' => 'password', 'placeholder' => 'Password']) !!}</div>
-      @if($errors->has('password'))
-        <div class="error">{{ $errors->first('password') }}</div>
-      @endif
-      <div class="form-field-div">{!! Form::submit('Login', ['class' => 'submit-btn']) !!}</div>
-    {!! Form::close() !!}
-```
