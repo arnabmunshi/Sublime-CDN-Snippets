@@ -1,5 +1,5 @@
 # Sublime CDN Snippets
-##### Last Updat: 09-Feb-2016
+##### Last Updat: 07-May-2016
 
 ## Demmo
 
@@ -18,7 +18,7 @@
 
 JS / CSS / FONT | Type and `ctrl+space`
 ----------------| -------
-[AngularJS v1.5.0](https://angularjs.org/) | `cdnangular`
+[AngularJS v1.5.5](https://angularjs.org/) | `cdnangular`
 [AnimateCSS v3.5.1](https://daneden.github.io/animate.css/) | `cdnanimate`
 [fontawesomeCSS v4.5.0](https://fortawesome.github.io/Font-Awesome/) | `cdnfontawesome`
 [jquery v2.1.4](https://jquery.com/) | `cdnjq`
