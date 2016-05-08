@@ -29,3 +29,10 @@ JS / CSS / FONT | Type and `ctrl+space`
 [StellarJS v0.6.2 (Parallax Animation)](http://markdalgleish.com/projects/stellar.js/) | `cdnstellar`
 [Google Fonts: Varela Round](https://www.google.com/fonts) | `cdnfont`
 [wowJS v1.1.2](http://mynameismatthieu.com/WOW/) | `cdnwow`
+
+## Some beautifull Packages
+
+[Auto File Name](https://github.com/BoundInCode/AutoFileName)
+[Advance New File](https://github.com/skuroda/Sublime-AdvancedNewFile)
+[Sublime Package Controller Installation](https://packagecontrol.io/installation)
+[Theme Spacegray](https://github.com/kkga/spacegray)
