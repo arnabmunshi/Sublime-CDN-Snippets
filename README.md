@@ -31,8 +31,7 @@ JS / CSS / FONT | Type and `ctrl+space`
 [wowJS v1.1.2](http://mynameismatthieu.com/WOW/) | `cdnwow`
 
 ## Some beautifull Packages
-
-[Auto File Name](https://github.com/BoundInCode/AutoFileName)
-[Advance New File](https://github.com/skuroda/Sublime-AdvancedNewFile)
-[Sublime Package Controller Installation](https://packagecontrol.io/installation)
-[Theme Spacegray](https://github.com/kkga/spacegray)
+1. [Auto File Name](https://github.com/BoundInCode/AutoFileName)
+2. [Advance New File](https://github.com/skuroda/Sublime-AdvancedNewFile)
+3. [Sublime Package Controller Installation](https://packagecontrol.io/installation)
+4. [Theme Spacegray](https://github.com/kkga/spacegray)
