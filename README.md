@@ -35,3 +35,4 @@ JS / CSS / FONT | Type and `ctrl+space`
 2. [Advance New File](https://github.com/skuroda/Sublime-AdvancedNewFile)
 3. [Sublime Package Controller Installation](https://packagecontrol.io/installation)
 4. [Theme Spacegray](https://github.com/kkga/spacegray)
+5. [Sublime Text 3 Build 3103 License Key - CRACK](https://gist.github.com/rockdrigo/9ae723dc5bdaf1f49288)
