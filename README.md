@@ -1,5 +1,5 @@
 # Sublime CDN Snippets
-##### Last Updat: 07-May-2016
+##### Last Updat: 21-May-2016
 
 ## Demmo
 
