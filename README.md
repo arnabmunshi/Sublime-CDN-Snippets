@@ -36,4 +36,4 @@ JS / CSS / FONT | Type and `ctrl+space`
 3. [Sublime Package Controller Installation](https://packagecontrol.io/installation)
 4. [Theme Spacegray](https://github.com/kkga/spacegray)
 5. [Sublime Text 3 Build 3114 License Key](https://fatesinger.com/78252)
-6. HACK-ABLE - Sublime Font [Download](https://github.com/arnabmunshi/Sublime-CDN-Snippets/blob/master/Hack-v2_020-ttf.zip)
+6. HACK-ABLE - Sublime Font [Download](https://github.com/arnabmunshi/Sublime-CDN-Snippets/blob/master/Hack-v2_020-ttf.zip?raw=true)
