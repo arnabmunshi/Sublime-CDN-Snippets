@@ -38,3 +38,4 @@ JS / CSS / FONT | Type and `ctrl+space`
 5. [Sublime Text 3 Build 3114 License Key](https://fatesinger.com/78252)
 6. HACK-ABLE - Sublime Font [Download](https://github.com/arnabmunshi/Sublime-CDN-Snippets/blob/master/Hack-v2_020-ttf.zip?raw=true)
 7. [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
+8. [CSS Extended Completions](https://packagecontrol.io/packages/CSS%20Extended%20Completions)
